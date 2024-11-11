@@ -1,0 +1,23 @@
+/* WeatherDisplay.css */
+.weather-display {
+    margin-top: 20px;
+    background-color: #f0f4f8;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .weather-title {
+    font-size: 20px;
+    color: #0077ff;
+    margin-bottom: 10px;
+  }
+  
+  .weather-details p {
+    margin: 5px 0;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  
